@@ -2,6 +2,34 @@
     border: 1px solid red;
 }
 
+body {
+    font-family: 'Proxima Nova Rg';
+}
+
 .bg-black {
     background-color: gainsboro; 
 }
+
+
+.hero-text{
+    height: 80vh; 
+    background-image: url('');
+}
+
+h1 {
+    font-size: 5rem;
+    font-family: 'Proxima Nova Bold'; 
+    letter-spacing: .1rem;
+}
+
+.hero-text p {
+    font-size: 2.5rem;
+    letter-spacing: .15rem; 
+     
+  }
+
+  section.hero {
+  background-color: rgb(128, 15, 15) ;
+  background-image: url(../img/hero_01.jpg) no-repeat center center;
+
+  }
